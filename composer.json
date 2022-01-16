@@ -2,6 +2,7 @@
   "name": "koraycicekciogullari/hydro-slider",
   "description": "A hydro slider",
   "license": "MIT",
+  "version": "1.0.0",
   "keywords": [
     "hydro",
     "slider"
